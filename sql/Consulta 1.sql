@@ -1,0 +1,1 @@
+SELECT * FROM eric_projeto_sql_athena LIMIT 10;
